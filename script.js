@@ -1,0 +1,1 @@
+alert("Form should be submitted before 15th September 2024. It doesn't matter if you are a CET or Non-CET student, you can apply for the counselling. All the best for your future endeavours!!");
